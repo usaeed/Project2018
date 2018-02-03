@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Subscription Form</title>
+</head>
+<body>
+<form action="handleSubscribeInfo.jsp" method="post">
+First name:<br>
+<input type="text" name="firstname"><br>
+Last name:<br>
+<input type="text" name="lastname"><br>
+</form>
+</body>
+</html>

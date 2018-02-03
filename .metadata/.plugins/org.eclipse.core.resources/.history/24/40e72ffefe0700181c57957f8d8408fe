@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Hello to my CURD project</h1>
+
+<table>
+<tr>
+<td>Create</td>
+<td><a href="create.jsp">HTML Images</a></td>
+</tr>
+<tr>
+<td>Update</td>
+</tr>
+<tr>
+<td>Retrieve</td>
+</tr>
+<tr>
+<td>Delete</td>
+</tr>
+</table>
+
+</body>
+</html>

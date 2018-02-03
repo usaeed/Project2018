@@ -1,0 +1,25 @@
+INDEX VERSION 1.126
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4140584893.index
+\MyJspDemo\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2895360999.index
+\ServletDBExample\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2211832706.index
+\MyInventory\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\69675052.index
+\curdProject\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\648987399.index
+\test\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2610908564.index
+\BlueWhale\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2949173424.index
+\BlueWhaleDB\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\415758491.index
+\MyFriends\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\295104474.index
+\DynamicWebProject1\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3839436168.index
+\BlueWhale\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\313875801.index
+\MyUbsBank\src
+C:\Users\James\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3129876376.index
+\test\src
